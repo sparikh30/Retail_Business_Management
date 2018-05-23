@@ -1,0 +1,4 @@
+EID 	Name 	Month 	Year 	 Total	 Count 	Quantity 
+ ---------------------------------- --------------------- 
+
+ e02	Peter	SEP	2017	698.6	1	2e02	Peter	OCT	2017	14.85	2	15
